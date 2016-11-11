@@ -1,0 +1,7 @@
+{
+    "require": {
+        "silex/silex": "^2.0",
+        "twig/twig": "^1.27",
+        "thiagoalessio/tesseract_ocr": "dev-master"
+    }
+}
